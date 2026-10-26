@@ -22,3 +22,18 @@
 - O GitHub MCP já tem uma integração disponível neste ambiente ChatGPT; evitar duplicações desnecessárias.
 - Acesso ao PC e automações locais exigem instalação, permissões e configuração específicas.
 - Priorizar opções gratuitas e testar uma de cada vez.
+
+## Integração ChatGPT + Windows + Blender (adicionados em 26/10/2026)
+
+> **Origem: GitHub.** Referências para inspeção futura, ainda **não instaladas nem integradas**. Verificar manutenção, compatibilidade real com ChatGPT e segurança antes de executar.
+
+| Prioridade | Projeto | Repositório no GitHub | Objetivo | Estado |
+|---|---|---|---|---|
+| Alta | Windows-MCP | https://github.com/CursorTouch/Windows-MCP | Controlo de aplicações Windows via MCP | Por avaliar |
+| Alta | Chat On Steroids (gpt-chat) | https://github.com/wxh0/gpt-chat | Ponte para ferramentas locais e ChatGPT | Por avaliar |
+| Alta | DeskMCP | https://github.com/edmen12/deskmcp | Acesso ao desktop com permissões | Por avaliar |
+| Alta | MCP for Blender | https://github.com/ahujasid/mcp-for-blender | Criar e modificar cenas Blender com agente MCP | Por avaliar |
+| Média | Windows MCP Server | https://github.com/sbroenne/mcp-windows | Automação Windows com elementos de acessibilidade | Por avaliar |
+| Média | Calabrass | https://github.com/CodewithMubasher/Calabrass | Assistente local com ferramentas e MCP | Por avaliar |
+
+**Segurança:** começar por acesso de leitura e pastas isoladas; pedir aprovação para ações destrutivas. A compatibilidade com esta conversa do ChatGPT não é garantida apenas por suportar MCP.
