@@ -1,17 +1,9 @@
-# Mapa das Ligações ChatGPT
+# Mapa das Ligações · catálogo ampliado
 
-Página: `site/mapa/index.html`. Site previsto: `https://xtvback.github.io/ai-control-hub/mapa/` (depende de GitHub Pages estar ativo).
+Atualização em 17/11/2026. Inclui 27 repositórios (23 públicos; 4 privados, não identificados no site público), 19 destinos web associados, 10 livros apresentados no portefólio, 17 artistas do SOLVERO Studio (+ duas secções especiais), álbuns, músicas, experiências de jogo e organização temática das contas Google Drive.
 
-## Funcionalidades
-- Árvore navegável (expandir/recolher, pesquisa, zoom, painel de detalhes e ligações cruzadas).
-- PIN visual de 4 dígitos validado por hash SHA-256. Não é autenticação real: ficheiros públicos são inspecionáveis.
-- Catálogo gerado a partir de ferramentas expostas na sessão em 2026-11-17, com notas de configuração histórica. Estados verificados apenas para GitHub, SentinelX e Remote Desktop Commander.
-- Sem chaves, tokens, IPs, identificadores do computador, emails ou dados de repositórios privados.
+**Fontes:** consulta GitHub API aos repositórios Xtvback; ficheiros públicos `solvero/studio.html`, `solvero/index.html` e `andre-m-fernandes-livros/index.html`; consultas apenas de metadados Google Drive das contas Pessoal e APEE. Nenhuma pasta de trabalho foi inspecionada. O mapa não sincroniza automaticamente nem testa todos os serviços continuamente.
 
-## Segurança e atualização
-**Nunca** inserir credenciais ou infraestrutura sensível no código de GitHub Pages. Para acesso privado efetivo, configurar autenticação à frente do site, por exemplo Cloudflare Access, com utilizadores autorizados e regras de sessão, ou servir o mapa a partir de um backend protegido. O PIN de 4 dígitos não é adequado para segurança.
+**Segurança:** PIN 2387 é um bloqueio visual, NÃO autenticação. Não publicar nomes/IDs/URLs de repositórios privados, pastas privadas, ficheiros pessoais, segredos, tokens ou dados da APEE. Os dados do catálogo HTML podem ser lidos publicamente. Para incluir inventário privado detalhado, usar um backend com login real (ex. Cloudflare Access).
 
-O catálogo fica congelado na data indicada e **não mostra saúde em tempo real**. Atualizar a página após novas verificações, ajustando o campo `asOf` e as notas de estado. As ramificações de PC/IA local baseiam-se em histórico reportado e precisam de novo teste.
-
-## Sem impacto
-Adicionada apenas a pasta `site/mapa/`; a homepage e os outros projetos não foram alterados.
+**Sites:** endereços provenientes do GitHub Pages, CNAME e `homepage` conhecidos. A maioria das páginas não foi testada online; não confundir presença de URL com disponibilidade confirmada. Nenhuma alteração realizada noutros projetos.
