@@ -1,0 +1,130 @@
+{
+  "date": "2026-11-18",
+  "sites": [
+    {
+      "slug": "mark2016",
+      "title": "Darkworld — arquivo histórico",
+      "url": "https://xtvback.github.io/mark2016/Index.html",
+      "checked": true
+    },
+    {
+      "slug": "minha-primeira-app",
+      "title": "Portefólio de autor (Vercel)",
+      "url": "https://andremfernandes.vercel.app/",
+      "checked": true
+    },
+    {
+      "slug": "mural-textos",
+      "title": "Onde o Silêncio não Chega",
+      "url": "https://xtvback.github.io/mural-textos/",
+      "checked": true
+    },
+    {
+      "slug": "Favoritos",
+      "title": "DesktopWeb — Favoritos",
+      "url": "https://xtvback.github.io/Favoritos/",
+      "checked": true
+    },
+    {
+      "slug": "solvero",
+      "title": "SOLVERO — Arquivo Musical",
+      "url": "https://xtvback.github.io/solvero/",
+      "checked": true
+    },
+    {
+      "slug": "insta-tool-web",
+      "title": "Insta Tool",
+      "url": "https://xtvback.github.io/insta-tool-web/",
+      "checked": true
+    },
+    {
+      "slug": "APEE-Matilde",
+      "title": "APEE — Candidatura (arquivo)",
+      "url": "https://xtvback.github.io/APEE-Matilde/",
+      "checked": true
+    },
+    {
+      "slug": "ai-control-hub",
+      "title": "AI Control Hub — Demo",
+      "url": "https://xtvback.github.io/ai-control-hub/",
+      "checked": true
+    },
+    {
+      "slug": "lista-a-mais",
+      "title": "APEE Bairro do Restelo",
+      "url": "https://apeebairrodorestelo.com/",
+      "checked": true
+    },
+    {
+      "slug": "uslords-hd2d",
+      "title": "USLORDS HD-2D",
+      "url": "https://xtvback.github.io/uslords-hd2d/",
+      "checked": true
+    },
+    {
+      "slug": "uslords-one-line",
+      "title": "USLORDS One Line",
+      "url": "https://xtvback.github.io/uslords-one-line/",
+      "checked": true
+    },
+    {
+      "slug": "central",
+      "title": "Central de projetos",
+      "url": "https://xtvback.github.io/central/",
+      "checked": true
+    },
+    {
+      "slug": "andre-m-fernandes-livros",
+      "title": "Livros — Portefólio",
+      "url": "https://xtvback.github.io/andre-m-fernandes-livros/",
+      "checked": true
+    },
+    {
+      "slug": "stop",
+      "title": "STOP",
+      "url": "https://xtvback.github.io/stop/",
+      "checked": true
+    },
+    {
+      "slug": "notas-plus",
+      "title": "Notas+",
+      "url": "https://xtvback.github.io/notas-plus/",
+      "checked": true
+    },
+    {
+      "slug": "openinterpreter",
+      "title": "Interpreter — Manual",
+      "url": "https://xtvback.github.io/openinterpreter/",
+      "checked": true
+    },
+    {
+      "slug": "legislacao-escolar-apee",
+      "title": "Biblioteca Legal Escolar",
+      "url": "https://xtvback.github.io/legislacao-escolar-apee/",
+      "checked": true
+    },
+    {
+      "slug": "dummy",
+      "title": "APEE — Ambiente de teste",
+      "url": "https://xtvback.github.io/dummy/",
+      "checked": true
+    },
+    {
+      "slug": "uslords-ocean-experiment",
+      "title": "USLORDS Ocean — WebGL",
+      "url": "https://xtvback.github.io/uslords-ocean-experiment/",
+      "checked": true
+    }
+  ],
+  "source": "GET público, consulta pontual",
+  "github": {
+    "public": 23,
+    "private": 4
+  },
+  "drives": "resumo agregado; sem pastas privadas",
+  "links": {
+    "amazon": 10,
+    "amazonGeneric": 3
+  },
+  "connectors": 78
+}
